@@ -1,5 +1,5 @@
 DOXYFILE_ENCODING      = UTF-8
-PROJECT_NAME           = "Voronoi diagram Generator"
+PROJECT_NAME           = "VoronoiGrowthSimulator"
 PROJECT_NUMBER         = 
 PROJECT_BRIEF          = "Based on Site Saturated Nucleation and Isotropic Growth"
 PROJECT_LOGO           = 
