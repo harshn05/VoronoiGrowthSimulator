@@ -29,7 +29,12 @@ This Python script, showvoronoi.py, is designed to load and display a Voronoi di
 ## How to run the program ?
 
 Got to the build directory and run the following:
+
 VoronoiGrowthSimulator.exe 2000 2000 10 & python showvoronoi.py
+
+Screenshot of the output is given below.
+
+![screenshot](screenshot.png)
 
 Harsh Kumar Narula
 <harsh.narula@iitbombay.org>
