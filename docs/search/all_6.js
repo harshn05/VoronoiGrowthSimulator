@@ -1,8 +1,5 @@
 var searchData=
 [
-  ['g_0',['g',['../structcolor.html#ab8d0eace02390e6d8ff451010331f0f1',1,'color']]],
-  ['grow_1',['Grow',['../class_voronoi.html#a92ae2843536051c81820658297e14893',1,'Voronoi']]],
-  ['grow_2',['grow',['../class_voronoi.html#a2d468827b1e880bf8797f5820fb3c982',1,'Voronoi']]],
-  ['growing_3',['Growing',['../_voronoi_8hpp.html#a78c71c1b0601552b79f4da446e41769fa1deec176875a84bd90d204c7e85013a4',1,'Voronoi.hpp']]],
-  ['grown_4',['Grown',['../_voronoi_8hpp.html#a78c71c1b0601552b79f4da446e41769fab00e03e56f4d7d3bb947cbf8044a1d88',1,'Voronoi.hpp']]]
+  ['i_0',['I',['../class_voronoi.html#a46e39ce8a9a9efbb4cba3dcb60a8d747',1,'Voronoi']]],
+  ['iscomplete_1',['iscomplete',['../_voronoi_8cpp.html#ae7852a4f3cd5950cd215c04c566cd60f',1,'iscomplete(const std::vector&lt; int &gt; &amp;I):&#160;Voronoi.cpp'],['../_voronoi_8cpp.html#ab29811df69f98c19c1ae6c57e935a008',1,'iscomplete(const std::vector&lt; StageOfLife &gt; &amp;a):&#160;Voronoi.cpp']]]
 ];
