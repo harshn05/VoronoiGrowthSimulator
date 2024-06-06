@@ -1,4 +1,4 @@
-# MIT licence
+# MIT license
 
 Copyright (c) 2024 Harsh Kumar Narula <harsh.narula@iitbombay.org>
 
