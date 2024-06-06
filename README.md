@@ -2,7 +2,7 @@
 
 ## Voronoi.cpp
 
-This project simulates a Voronoi diagram. A Voronoi diagram is a partitioning of a plane into regions based on distance to points in a specific subset of the plane. In this context, it uses circular growth of nuclei. The Voronoi class represents the diagram itself, with methods for nucleating the seed points followed by their isotropic in a circular fashion.
+This project simulates a Voronoi diagram. A Voronoi diagram is a partitioning of a plane into regions based on distance to points in a specific subset of the plane. In this context, it uses circular growth of nuclei. The Voronoi class represents the diagram itself, with methods for nucleating the seed points followed by their growth in a circular fashion.
 
 ## example.cpp
 
